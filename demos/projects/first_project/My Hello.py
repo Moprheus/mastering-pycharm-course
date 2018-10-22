@@ -1,5 +1,5 @@
-print ("Hello Tatti")
+print("Hello Tatti")
 
-print ("Hello Second Tatti")
+print("Hello Second Tatti")
 
-print ("More Tatti")
+print("More Tatti")
